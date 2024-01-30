@@ -25,10 +25,6 @@ The relationships between variables are explored through correlation analysis. B
 The top countries are identified based on different factors such as overall happiness score, GDP per capita, social support, life expectancy, freedom, generosity, and perceptions of corruption. Visualizations, including bar graphs, help illustrate these top countries for each factor.
 ![image](https://github.com/avijani/Happiness-Index/assets/123911009/eb9c5dcd-f8d4-42b4-9ce5-6a79923bbeef)
 ![image](https://github.com/avijani/Happiness-Index/assets/123911009/c2e6f8ec-847a-4bb8-a105-471f26633cc6)
-![image](https://github.com/avijani/Happiness-Index/assets/123911009/91ba8fc3-7394-4232-92f2-759999ed8580)
-![image](https://github.com/avijani/Happiness-Index/assets/123911009/155726f1-1b87-446e-b9e0-6cdc735da999)
-![image](https://github.com/avijani/Happiness-Index/assets/123911009/6110ff39-b85d-4087-83ad-9d20b46cdac3)
-![image](https://github.com/avijani/Happiness-Index/assets/123911009/5960287d-a3bd-4307-af5f-5a675b8a5ed9)
 ![image](https://github.com/avijani/Happiness-Index/assets/123911009/923ecc05-960a-453f-a8d9-fe4006a0809a)
 
 
