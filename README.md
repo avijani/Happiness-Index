@@ -68,17 +68,17 @@ This project aimed to understand the factors influencing happiness scores across
 
 # Key Findings:
 
-# Variable Importance: Through correlation analysis, it was observed that GDP per capita, social support, and life expectancy had a strong positive correlation with happiness scores.
+Variable Importance: Through correlation analysis, it was observed that GDP per capita, social support, and life expectancy had a strong positive correlation with happiness scores.
 
-# Top Influential Factors: The top factors contributing to high happiness scores were identified for each variable. For instance, Finland consistently ranked high in overall happiness, emphasizing the significance of these factors.
+ Top Influential Factors: The top factors contributing to high happiness scores were identified for each variable. For instance, Finland consistently ranked high in overall happiness, emphasizing the significance of these factors.
 
-# Building the Model: A Multiple Linear Regression model was constructed to predict happiness scores. The initial model included all variables, and a stepwise approach was employed to refine the model based on statistical significance and multicollinearity.
+Building the Model: A Multiple Linear Regression model was constructed to predict happiness scores. The initial model included all variables, and a stepwise approach was employed to refine the model based on statistical significance and multicollinearity.
 
-# Significant Predictors: GDP per capita, social support, and freedom to make life choices were found to be significant predictors of happiness. Generosity and perceptions of corruption did not show a significant impact.
+Significant Predictors: GDP per capita, social support, and freedom to make life choices were found to be significant predictors of happiness. Generosity and perceptions of corruption did not show a significant impact.
 
-# Addressing Multicollinearity: Multicollinearity issues, particularly with GDP per capita, were addressed by removing variables and updating the model.
+Addressing Multicollinearity: Multicollinearity issues, particularly with GDP per capita, were addressed by removing variables and updating the model.
 
-# Model Evaluation: The model was evaluated for normality of residuals, skewness, and statistical significance. While some deviations from normality were observed, the model performed reasonably well.
+Model Evaluation: The model was evaluated for normality of residuals, skewness, and statistical significance. While some deviations from normality were observed, the model performed reasonably well.
 
 # Implications:
 
