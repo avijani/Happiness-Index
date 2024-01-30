@@ -26,7 +26,9 @@ The top countries are identified based on different factors such as overall happ
 ![image](https://github.com/avijani/Happiness-Index/assets/123911009/eb9c5dcd-f8d4-42b4-9ce5-6a79923bbeef)
 ![image](https://github.com/avijani/Happiness-Index/assets/123911009/c2e6f8ec-847a-4bb8-a105-471f26633cc6)
 ![image](https://github.com/avijani/Happiness-Index/assets/123911009/923ecc05-960a-453f-a8d9-fe4006a0809a)
-
+![image](https://github.com/avijani/Happiness-Index/assets/123911009/871fcc76-ce8a-4527-ab14-b37ffa6422bc)
+![image](https://github.com/avijani/Happiness-Index/assets/123911009/0ee7d8b4-537a-4949-b05a-4828acdd0c29)
+![image](https://github.com/avijani/Happiness-Index/assets/123911009/f31de2e4-3839-4a63-bf5d-03bd26f2e337)
 
 # 6. Building the Predictive Model:
 A multiple linear regression model is constructed to predict happiness scores based on the chosen variables. The initial model includes all variables, but a stepwise approach is employed to refine the model based on statistical significance and multicollinearity.
@@ -52,11 +54,8 @@ Freedom:  1.26
 The distribution of residuals is examined through Q-Q plots, histograms, and statistical tests. While the residuals are not perfectly normal, the skewness is reduced in the refined model.
 Both plots show the residuals approximately lie on the Q-Q line with some variance.
 ![image](https://github.com/avijani/Happiness-Index/assets/123911009/21350c92-ab5b-486f-b238-494cc6b087b5)
-
 ![image](https://github.com/avijani/Happiness-Index/assets/123911009/23c20e67-7968-440f-b913-3173a2e31e8b)
-
 The updated model is slightly less skewed than the original. Both models' residuals are not normally distributed as neither have a p-value > 0.5.
-
 
 # 10. Conclusion:
 The project concludes that GDP per capita is a crucial factor influencing a country's happiness, indicating the importance of economic well-being. Social support and freedom also play significant roles. The analysis suggests focusing efforts on improving economic conditions and promoting individual freedoms globally to enhance overall happiness.
