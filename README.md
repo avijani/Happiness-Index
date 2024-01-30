@@ -54,7 +54,8 @@ Social Support:  2.5
 Freedom:  1.26
 # 9. Residual Analysis:
 The distribution of residuals is examined through Q-Q plots, histograms, and statistical tests. While the residuals are not perfectly normal, the skewness is reduced in the refined model.
-![image](https://github.com/avijani/Happiness-Index/assets/123911009/c5b47420-bae7-4eb6-bea4-9f21d1e89216)
+![image](https://github.com/avijani/Happiness-Index/assets/123911009/21350c92-ab5b-486f-b238-494cc6b087b5)
+
 Both plots show the residuals approximately lie on the Q-Q line with some variance.
 ![image](https://github.com/avijani/Happiness-Index/assets/123911009/23c20e67-7968-440f-b913-3173a2e31e8b)
 The updated model is slightly less skewed than the original.
