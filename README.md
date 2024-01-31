@@ -17,12 +17,14 @@ The types of variables are examined to ensure consistency, and it's confirmed th
 
 # 4. Correlation Analysis:
 The relationships between variables are explored through correlation analysis. Both graphical (using pairs plots) and numerical (correlation matrix) methods are employed. The analysis reveals strong positive correlations between happiness scores and variables like GDP, social support, and healthy life expectancy.
+
 ![image](https://github.com/avijani/Happiness-Index/assets/123911009/0ca78f7b-9e61-4a87-9f7e-d81111f099cc)
 ![image](https://github.com/avijani/Happiness-Index/assets/123911009/05e291ae-160d-4698-83cb-cff78ce0b846)
 
 
 # 5. Top Countries Analysis:
 The top countries are identified based on different factors such as overall happiness score, GDP per capita, social support, life expectancy, freedom, generosity, and perceptions of corruption. Visualizations, including bar graphs, help illustrate these top countries for each factor.
+
 ![image](https://github.com/avijani/Happiness-Index/assets/123911009/eb9c5dcd-f8d4-42b4-9ce5-6a79923bbeef)
 ![image](https://github.com/avijani/Happiness-Index/assets/123911009/c2e6f8ec-847a-4bb8-a105-471f26633cc6)
 ![image](https://github.com/avijani/Happiness-Index/assets/123911009/923ecc05-960a-453f-a8d9-fe4006a0809a)
