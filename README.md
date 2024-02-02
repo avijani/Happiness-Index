@@ -17,8 +17,6 @@ The types of variables are examined to ensure consistency, and it's confirmed th
 
 # 4. Correlation Analysis:
 The relationships between variables are explored through correlation analysis. Both graphical (using pairs plots) and numerical (correlation matrix) methods are employed. The analysis reveals strong positive correlations between happiness scores and variables like GDP, social support, and healthy life expectancy.
-
-![image](https://github.com/avijani/Happiness-Index/assets/123911009/0ca78f7b-9e61-4a87-9f7e-d81111f099cc)
 ![image](https://github.com/avijani/Happiness-Index/assets/123911009/05e291ae-160d-4698-83cb-cff78ce0b846)
 
 
